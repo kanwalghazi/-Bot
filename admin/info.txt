@@ -1,0 +1,11 @@
+Client ID: 342745155897393152
+
+Client Secret:
+t5AHK35J_KpzCvnG_oo_mqHYzch-1yoU
+
+Username: SunKnight Bot#2839
+
+Token:
+MzQyNzQ1MTU1ODk3MzkzMTUy.DGUGHA.EwhUeqA6_YOq2mzYI9q-12TVteE
+
+https://discordapp.com/api/oauth2/authorize?client_id=342745155897393152&scope=bot&permissions=0
